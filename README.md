@@ -125,16 +125,6 @@ uvicorn app.main:app --reload --port 8000
 cd frontend
 npm install
 npm run dev
-```
-
----
-
-## 📚 Documentation & Interview Guide
-
-- **[System Architecture](docs/architecture.md)**: Detailed breakdown of the Text-to-SQL pipeline, SQL sanitizer, and dynamic chart engine.
-- **[Database Schema & Data Dictionary](docs/db_schema.md)**: ER diagrams, index definitions, and column definitions.
-- **[Interview Preparation Guide](docs/interview_prep.md)**: Comprehensive answers to 20+ expected Senior Python, Data Analytics, and AI Engineer interview questions.
-
 ---
 
 ## 🧪 Running Automated Tests
